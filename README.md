@@ -1,16 +1,29 @@
-## Hi there 👋
+<h3 align="center">
+  Beginner backend developer. Python by day, Rust by curiosity.
+</p>
 
-<!--
-**psyattack/psyattack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=psyattack&show_icons=true&theme=tokyonight&hide_border=true&locale=en" height="150"/>
+</p>
+
+---
+
+### Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=psyattack&theme=tokyonight&hide_border=true&locale=en"/>
+</p>
+
+---
